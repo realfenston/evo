@@ -6,4 +6,4 @@ numba
 matplotlib
 transformers
 git+https://github.com/songlab-cal/tape@master#egg=tape-proteins
-git+https://github.com/facebookresearch/esm@master#egg=fair-esm
+git+https://github.com/facebookresearch/esm@main#egg=fair-esm
